@@ -1,7 +1,7 @@
 # Kelly Criterion Portfolio Optimizer
 
 ## Description
-This project implements a Kelly Criterion-based portfolio optimization tool using KDB+/q. It calculates optimal portfolio weights based on expected returns, probabilities, and a risk-free rate.
+This project implements a [Kelly Criterion](https://en.wikipedia.org/wiki/Kelly_criterion)-based portfolio optimization tool using KDB+/q. It calculates optimal portfolio weights based on expected returns, probabilities, and a risk-free rate.
 
 ## Features
 - Calculates Kelly Criterion for individual assets
